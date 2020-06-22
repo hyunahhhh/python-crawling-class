@@ -19,6 +19,10 @@
 
 
 
+
+
+
+
 ## 2. 여러 웹 페이지 웹 크롤링
 
 - 크롤링 사이트:  [https://www.coupang.com](https://www.coupang.com/)
@@ -44,10 +48,14 @@
 
 
 
+
+
+
+
 ## 3. 동적 웹 크롤링, selenium
 
 - 크롤링 사이트:  https://www.tripadvisor.co.kr/Restaurants-g294197-Seoul.html
-- 참고 소스코드: [[주피터노트북](https://github.com/zzhining/python-crawling-class/blob/master/01_1_%EC%85%80%EB%A6%AC%EB%8A%84%20%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%8D%B0%EC%9D%B4%ED%84%B0.ipynb)]
+- 참고 소스코드: [[주피터노트북](https://github.com/zzhining/python-crawling-class/blob/master/03_tripadvisor_image_crawling_by_selenium_class.ipynb)]
 
 
 
@@ -77,7 +85,12 @@
 
    - 폴더에 이미지 데이터 다운로드 받기
 
-   
+
+
+
+
+
+
 
 ## 4. 파일 다운로드 받기, GET방식, POST 방식의 이해
 
@@ -94,6 +107,10 @@
 4. response 값 저장
 5. 두번째 request를 첫번째 response값을 활용하여 설정
 6. response 데이터를 엑셀로 저장(byte를 excel로 변환)
+
+
+
+
 
 
 
@@ -128,10 +145,12 @@
 
 
 
+
+
 ## 6. OpenAPI 활용, 공공데이터
 
 - 크롤링 사이트:  https://www.data.go.kr/
-- 참고 소스코드: [주피터노트북]([https://github.com/zzhining/python-crawling-class/blob/master/03_%EC%95%84%ED%8C%8C%ED%8A%B8%EB%A7%A4%EB%A7%A4%20%EC%8B%A4%EA%B1%B0%EB%9E%98%EA%B0%80_class.ipynb](https://github.com/zzhining/python-crawling-class/blob/master/03_아파트매매 실거래가_class.ipynb))
+- 참고 소스코드: [주피터노트북](https://github.com/zzhining/python-crawling-class/blob/master/06_%EC%95%84%ED%8C%8C%ED%8A%B8%EB%A7%A4%EB%A7%A4%20%EC%8B%A4%EA%B1%B0%EB%9E%98%EA%B0%80_class.ipynb)
 
 
 
@@ -150,6 +169,10 @@
 1. URL request
 2. response 데이터 파싱(json)
 3. csv 형태로 저장
+
+
+
+
 
 
 
